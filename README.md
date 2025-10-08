@@ -83,6 +83,3 @@ g++ -o ex5 exercicio-5.cpp -fopenmp -O2
 **Vinicius Cordeiro Ribeiro**
 
 [GitHub](https://github.com/viniciuscribeiro) | [LinkedIn](https://www.linkedin.com/in/viniciuscordeiroribeiro/)
-
-```
-```
