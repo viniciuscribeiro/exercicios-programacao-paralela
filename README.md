@@ -2,10 +2,10 @@
 
 Este repositório contém a resolução da lista de exercícios da disciplina de Programação Paralela, focada na utilização de diretivas OpenMP para paralelizar algoritmos em C++. O objetivo é explorar e demonstrar a aplicação de conceitos fundamentais de concorrência e medição de desempenho.
 
-> **Disciplina:** Programação Paralela
-> **Professor:** Prof. Rodrigo Gonçalves Pinto
-> **Aluno:** Vinicius Cordeiro Ribeiro
-> **Instituição:** IESB
+> **Disciplina:** Programação Paralela  
+> **Professor:** Prof. Rodrigo Gonçalves Pinto  
+> **Aluno:** Vinicius Cordeiro Ribeiro  
+> **Instituição:** IESB  
 > **Data:** 08 de Outubro de 2025
 
 ---
